@@ -1,7 +1,7 @@
 {
   "name": "dashboard",
   "version": "0.1.0",
-  "homepage": "http:///Nkechi-Christabel.github.io/alx-react",
+  "homepage": "http://Gloriaisuwa.github.io/alx-react",
   "private": true,
   "dependencies": {
     "@cfaester/enzyme-adapter-react-18": "^0.8.0",
