@@ -1,0 +1,25 @@
+.notification-wrapper {
+  position: absolute;
+  right: 1rem;
+  margin: 1.4rem;
+}
+
+.Notifications {
+  position: relative;
+  padding: 1rem;
+  border: 1px dashed #e0364b;
+}
+
+li[data-notification-type='default'] {
+  color: blue;
+}
+
+li[data-notification-type='urgent'] {
+  color: red;
+}
+
+.menuItem {
+  display: flex;
+  justify-content: end;
+  padding-bottom: 0.3rem;
+}
